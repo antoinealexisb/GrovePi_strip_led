@@ -1,0 +1,10 @@
+{
+    "name": "rgb-grovepi",
+    "version": "0.1.0",
+    "dependencies": {
+        "socket.io": "~1.2.1",
+        "grovepi":"2.2.3"
+    },
+    "author": "antoinealexisb",
+    "description": "allows you to change the color of your  led strip (4 pin, R,B,G,5v) with a prototype website (very basic)."
+}
