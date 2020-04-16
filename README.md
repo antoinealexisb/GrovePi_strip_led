@@ -11,18 +11,18 @@ In my case, I connected the Red Pin to pin D5 of the grovePi, Green Pin to pin D
 
 #### Grove - __ LED
 
-[!Grove-LED](illustration/groveled1.jpg)  
-[!Grove-LED](illustration/groveled2.jpg)
+<img src="illustration/groveled1.jpg" alt="" width="200" height="200" />  
+<img src="illustration/groveled2.jpg" alt="" width="200" height="200" />  
 
 #### cable connection
 
-[!groveAllCable](illustration/grovepialim.jpg)  
+<img src="illustration/grovepialim.jpg" alt="" width="200" height="200" />  
 
-5v connection on the led strip:
-[!stripConnection5v](illustration/grovepi5Volt.jpg)  
+5v connection on the led strip:  
+<img src="illustration/grovepi5Volt.jpg" alt="" width="200" height="200" />  
 
-ground (pins grounds grovePi Led) connection on the led strip:
-[!stripConnectionNullv](illustration/stripledNullVolt.jpg)  
+ground (pins grounds grovePi Led) connection on the led strip:  
+<img src="illustration/stripledNullVolt.jpg" alt="" width="200" height="200" />  
 
 
 ## Running locally
@@ -38,7 +38,7 @@ $ nodejs app.js
 ## Website
 
 `website`
-[!website](illustration/web.png)
+![website](illustration/web.png)
 
 `video`
 [example in video](https://youtu.be/xndJncuohY8)
